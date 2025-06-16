@@ -1,7 +1,7 @@
 public class main{
     public static void main(String[] args)  {
         
-        System.outprint("Hellow Java");
+        System.out.println("Hellow Java");
 
     }
 }
